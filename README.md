@@ -10,6 +10,6 @@ This is the repository for my solutions to the Communication Systems course's co
 
 **Final Project:**
 
-Implementation of Shannon-Fano Algorithm and Simulation of Digital Modulation and Demodulation
+- Implementation of Shannon-Fano Algorithm and Simulation of Digital Modulation and Demodulation
 
 
